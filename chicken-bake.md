@@ -1,4 +1,4 @@
-# Costco chicken bake fast cooking instuctions
+# Costco chicken bake fast cooking instructions
 - Preheat an oven or preferably a toaster oven to 350 degrees fahrenheit
 - Remove chicken bake from wrapper
 - Microwave for 1.25 minutes
