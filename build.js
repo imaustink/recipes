@@ -1,9 +1,8 @@
 const fs = require('fs');
-const glob = require('glob');
 const promisify = require('./utils/promisify');
-const makeName = require('./utils/get-name');
+const makeLink = require('./utils/link-to-markdown');
 const titleCase = require('./utils/title-case');
-const g = promisify(glob);
+const glob = promisify(require('glob'));
 const readFile = promisify(fs.readFile);
 const writeFile = promisify(fs.writeFile);
 const templatePath = './readme-template.md';
@@ -13,11 +12,11 @@ const folders = [
 ];
 
 Promise.all(folders.map(path => {
-	return g(path);
+	return glob(path);
 })).then(results => {
 	return results.map(files => {
 		let title = titleCase(files.shift());
-		let list = files.sort().map(makeName).join('\n');
+		let list = files.sort().map(makeLink).join('\n');
 		return `## ${title}\n${list}`;
 	}).join('\n\n');
 }).then(toc => {
