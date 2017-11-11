@@ -2,7 +2,7 @@
 This is where I record my food science! You're welcome.
 
 ## Recipes
-- [Beer Cheese](recipes/beer-cheese.md)
+- [Beer Cheese Sauce](recipes/beer-cheese-sauce.md)
 
 ## Reheating Instructions
 - [Costco Chicken Bake](reheating-instructions/costco-chicken-bake.md)
