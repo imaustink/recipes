@@ -17,7 +17,7 @@ Promise.all(folders.map(path => {
 })).then(results => {
 	return results.map(files => {
 		let title = titleCase(files.shift());
-		let list = files.map(makeName).join('\n');
+		let list = files.sort().map(makeName).join('\n');
 		return `## ${title}\n${list}`;
 	}).join('\n\n');
 }).then(toc => {
