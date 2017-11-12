@@ -6,8 +6,8 @@ I have spent the last year perfecting this recipe, but it is still evolving. It 
 ## Ingredients
 - 1/8 of a white onion minced
 - 1 Tbsp minced garlic
-- 1 Tbsp butter
-- 2 Tbsp. all-purpose flour
+- 2 Tbsp butter
+- 1 Tbsp. all-purpose flour
 - 1/2 cup __heavy__ whipping cream
 - 1/2 cup beer
 - 1 tsp better than bouillon (chicken)
