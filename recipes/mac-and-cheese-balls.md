@@ -1,4 +1,5 @@
 # Fried Macaroni and Cheese Balls
+<img src="mac-and-cheese-balls.jpg" width="250" />
 Theese delicious fried morsels packed with gooey cheese were inspired by The Cheese Cake Factory.
 
 ## Ingredients
