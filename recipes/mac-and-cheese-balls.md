@@ -20,6 +20,7 @@ __The Sauce__
 - 2 teaspoons heavy whipping cream
 - 1 tablespoon shreded parmesan
 
+## Instructions
 Cook the macaroni according to package instructions. Drain and rinse with cold water to stop the cooking, then set aside.
 
 In a saucepan, melt the butter over medium heat. Sprinkle the flour into the butter and stir it with a whisk. Cook for 2 minutes. Whisk the milk into the flour mixture, working out any lumps. Cook until the sauce thickens, about 2 minutes. Reduce heat to low, add the cheeses, and stir until melted and smooth, this may take a good bit of time. Season with salt and pepper to taste.
