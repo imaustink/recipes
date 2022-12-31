@@ -1,2 +1,9 @@
+include:
+  - "_*.*.js"
+  - "_*.css"
+  - "**/_*.*.js"
+  - "**/_*.css"
+  - "**/**/_*.*.js"
+  - "**/**/_*.css"
 title: Kurpuis Family Recipes
 description: This website in an index of recipes from the Kurpuis family and many their friends.

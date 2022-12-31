@@ -43,6 +43,6 @@ export function loginRedirect() {
 
 export async function login(credentials: LoginCredentials) {
 	const token = await createSessionToken(credentials);
-	await storeSessionToken(token);
+	storeSessionToken(token);
 	loginRedirect();
 }
