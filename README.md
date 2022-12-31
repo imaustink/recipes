@@ -48,3 +48,4 @@ Welcome to the Kurpuis family's recipe index!
 - [Hyatt’s Smoked Salmon](recipes/hyatt%E2%80%99s-smoked-salmon.md)
 - [Austin’s Garlic Mac & Cheese](recipes/austin%E2%80%99s-garlic-mac-%26-cheese.md)
 - [Annies Italian Breakfast Casserole](recipes/annies-italian-breakfast-casserole.md)
+- [Jim Bill’s Mulled Wine](recipes/jim-bill%E2%80%99s-mulled-wine.md)
