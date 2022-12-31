@@ -35,3 +35,4 @@ Welcome to the Kurpuis family's recipe index!
 - [Jim Bill’s Spaghetti Sauce](recipes/jim-bill%E2%80%99s-spaghetti-sauce.md)
 - [Mini Cheesecakes (GF or Reg)](recipes/mini-cheesecakes-%28gf-or-reg%29.md)
 - [Cilantro Lime Crock Pot Tacos](recipes/cilantro-lime-crock-pot-tacos.md)
+- [Jim Bill’s Smoked Salmon Dip](recipes/jim-bill%E2%80%99s-smoked-salmon-dip.md)
