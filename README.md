@@ -44,3 +44,4 @@ Welcome to the Kurpuis family's recipe index!
 - [Tomato Garlic Gnocchi](recipes/tomato-garlic-gnocchi.md)
 - [Pasta Salad](recipes/pasta-salad.md)
 - [Bacon Wrapped Dates](recipes/bacon-wrapped-dates.md)
+- [Maple Brown Sugar Latte](recipes/maple-brown-sugar-latte.md)
