@@ -16,3 +16,4 @@ Welcome to the Kurpuis family's recipe index!
 - [Thai Lettuce Wraps](recipes/thai-lettuce-wraps.md)
 - [Grandmas Sue’s Biscuits](recipes/grandmas-sue%E2%80%99s-biscuits.md)
 - [Homemade Pretzels](recipes/homemade-pretzels.md)
+- [Beer Cheese Sauce](recipes/beer-cheese-sauce.md)
