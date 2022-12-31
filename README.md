@@ -19,3 +19,4 @@ Welcome to the Kurpuis family's recipe index!
 - [Beer Cheese Sauce](recipes/beer-cheese-sauce.md)
 - [No Bake Granola Bites](recipes/no-bake-granola-bites.md)
 - [Broccoli Pasta Salad](recipes/broccoli-pasta-salad.md)
+- [Aunt Stephanie’s GF Chocolate Chip Cookies](recipes/aunt-stephanie%E2%80%99s-gf-chocolate-chip-cookies.md)
