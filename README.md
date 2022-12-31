@@ -43,3 +43,4 @@ Welcome to the Kurpuis family's recipe index!
 - [Beef Bowls](recipes/beef-bowls.md)
 - [Tomato Garlic Gnocchi](recipes/tomato-garlic-gnocchi.md)
 - [Pasta Salad](recipes/pasta-salad.md)
+- [Bacon Wrapped Dates](recipes/bacon-wrapped-dates.md)
