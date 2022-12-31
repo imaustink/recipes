@@ -9,3 +9,4 @@ Welcome to the Kurpuis family's recipe index!
 - [Banana Bread](recipes/banana-bread.md)
 - [Apple Crumble](recipes/apple-crumble.md)
 - [Chicken Bacon Alfredo Fettuccini](recipes/chicken-bacon-alfredo-fettuccini.md)
+- [Crock Pot Chicken & Dumplings](recipes/crock-pot-chicken-%26-dumplings.md)
