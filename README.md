@@ -1,10 +1,8 @@
-# Food Science
-This is where I record my food science! You're welcome.
+# Welcome
+
+Welcome to the Kurpuis family's recipe index!
 
 ## Recipes
-- [Beer Cheese Sauce](recipes/beer-cheese-sauce.md)
 
-## Reheating Instructions
-- [Costco Chicken Bake](reheating-instructions/costco-chicken-bake.md)
-- [Maruchan Ramen](reheating-instructions/maruchan-ramen.md)
-- [Real Nissin Top Ramen](reheating-instructions/real-nissin-top-ramen.md)
+- [Beer Cheese Sauce](recipes/beer-cheese-sauce.md)
+- [Mac & Cheese Balls](recipes/mac-and-cheese-balls.md)
