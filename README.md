@@ -51,3 +51,4 @@ Welcome to the Kurpuis family's recipe index!
 - [Jim Bill’s Mulled Wine](recipes/jim-bill%E2%80%99s-mulled-wine.md)
 - [Greek Vegetarian Wraps](recipes/greek-vegetarian-wraps.md)
 - [Street Corn Dip](recipes/street-corn-dip.md)
+- [Austin’s Great Grandma Hall’s Coffee Cake (1922)](recipes/austin%E2%80%99s-great-grandma-hall%E2%80%99s-coffee-cake-%281922%29.md)
