@@ -25,3 +25,4 @@ Welcome to the Kurpuis family's recipe index!
 - [Country Potato Soup](recipes/country-potato-soup.md)
 - [Grandma Rose’s Angel Food Cake](recipes/grandma-rose%E2%80%99s-angel-food-cake.md)
 - [Chicken Bacon Wild Rice Bake](recipes/chicken-bacon-wild-rice-bake.md)
+- [Classic Bruschetta](recipes/classic-bruschetta.md)
