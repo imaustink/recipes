@@ -47,3 +47,4 @@ Welcome to the Kurpuis family's recipe index!
 - [Maple Brown Sugar Latte](recipes/maple-brown-sugar-latte.md)
 - [Hyatt’s Smoked Salmon](recipes/hyatt%E2%80%99s-smoked-salmon.md)
 - [Austin’s Garlic Mac & Cheese](recipes/austin%E2%80%99s-garlic-mac-%26-cheese.md)
+- [Annies Italian Breakfast Casserole](recipes/annies-italian-breakfast-casserole.md)
