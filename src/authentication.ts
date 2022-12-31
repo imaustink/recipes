@@ -24,12 +24,16 @@ export async function createSessionToken(credentials: LoginCredentials) {
 	return response.token;
 }
 
-export async function storeSessionToken(token: string) {
+export function storeSessionToken(token: string) {
 	localStorage.setItem(AUTH_TOKEN_KEY, token);
 }
 
-export async function destroySessionToken() {
+export function destroySessionToken() {
 	localStorage.removeItem(AUTH_TOKEN_KEY);
+}
+
+export function getSessionToken() {
+	localStorage.getItem(AUTH_TOKEN_KEY);
 }
 
 export function loginRedirect() {

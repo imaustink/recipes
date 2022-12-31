@@ -4,7 +4,8 @@
     let email = "";
     let password = "";
 
-    function handleSubmit() {
+    function handleSubmit(event) {
+        event.preventDefault();
         login({ email, password }).then(console.log).catch(console.error);
     }
 

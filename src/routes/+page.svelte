@@ -1,20 +1,23 @@
 <script>
     import "../app.css";
     import { onMount } from 'svelte';
+    import { getSessionToken } from "../authentication";
+
     let title = "";
     let ingredients;
     let directions;
     let tags = "";
 
-	onMount(async () => {
-        ingredients = new SimpleMDE({ element: document.getElementById("Ingredients"), status: false });
-        directions = new SimpleMDE({ element: document.getElementById("Directions"), status: false });
-	});
+    onMount(async () => {
+          ingredients = new SimpleMDE({ element: document.getElementById("Ingredients"), status: false });
+          directions = new SimpleMDE({ element: document.getElementById("Directions"), status: false });
+    });
 
     async function createRecipe(body) {
+        const authToken = getSessionToken();
         const myHeaders = new Headers({
             "Content-Type": "application/json",
-            "Authorization": localStorage.getItem("authToken") || ""
+            "Authorization": `Bearer ${authToken}`
         });
         const requestOptions = {
             method: 'POST',
