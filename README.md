@@ -26,3 +26,4 @@ Welcome to the Kurpuis family's recipe index!
 - [Grandma Rose’s Angel Food Cake](recipes/grandma-rose%E2%80%99s-angel-food-cake.md)
 - [Chicken Bacon Wild Rice Bake](recipes/chicken-bacon-wild-rice-bake.md)
 - [Classic Bruschetta](recipes/classic-bruschetta.md)
+- [Kristie’s PB Cup Cookies](recipes/kristie%E2%80%99s-pb-cup-cookies.md)
