@@ -40,3 +40,4 @@ Welcome to the Kurpuis family's recipe index!
 - [Extra Thick Chocolate Chip Cookies](recipes/extra-thick-chocolate-chip-cookies.md)
 - [Gauffres Belges (Belgian Waffles)](recipes/gauffres-belges-%28belgian-waffles%29.md)
 - [Homemade Flatbread Pizzas](recipes/homemade-flatbread-pizzas.md)
+- [Beef Bowls](recipes/beef-bowls.md)
