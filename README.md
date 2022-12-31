@@ -1,5 +1,3 @@
-# Welcome
-
 Welcome to the Kurpuis family's recipe index!
 
 ## Recipes
