@@ -28,3 +28,4 @@ Welcome to the Kurpuis family's recipe index!
 - [Classic Bruschetta](recipes/classic-bruschetta.md)
 - [Kristie’s PB Cup Cookies](recipes/kristie%E2%80%99s-pb-cup-cookies.md)
 - [Apple Pancakes](recipes/apple-pancakes.md)
+- [Tater Tot Casserole](recipes/tater-tot-casserole.md)
