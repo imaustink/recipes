@@ -12,3 +12,4 @@ Welcome to the Kurpuis family's recipe index!
 - [Crock Pot Chicken & Dumplings](recipes/crock-pot-chicken-%26-dumplings.md)
 - [Chicken Pot Pie Bites](recipes/chicken-pot-pie-bites.md)
 - [Brown Sugar Meatloaf](recipes/brown-sugar-meatloaf.md)
+- [Stuffed Bell Peppers](recipes/stuffed-bell-peppers.md)
