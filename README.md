@@ -36,3 +36,4 @@ Welcome to the Kurpuis family's recipe index!
 - [Mini Cheesecakes (GF or Reg)](recipes/mini-cheesecakes-%28gf-or-reg%29.md)
 - [Cilantro Lime Crock Pot Tacos](recipes/cilantro-lime-crock-pot-tacos.md)
 - [Jim Bill’s Smoked Salmon Dip](recipes/jim-bill%E2%80%99s-smoked-salmon-dip.md)
+- [Jim Bill’s Easy BBQ Halibut](recipes/jim-bill%E2%80%99s-easy-bbq-halibut.md)
