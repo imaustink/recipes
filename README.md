@@ -18,3 +18,4 @@ Welcome to the Kurpuis family's recipe index!
 - [Homemade Pretzels](recipes/homemade-pretzels.md)
 - [Beer Cheese Sauce](recipes/beer-cheese-sauce.md)
 - [No Bake Granola Bites](recipes/no-bake-granola-bites.md)
+- [Broccoli Pasta Salad](recipes/broccoli-pasta-salad.md)
