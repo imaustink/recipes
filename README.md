@@ -13,3 +13,4 @@ Welcome to the Kurpuis family's recipe index!
 - [Chicken Pot Pie Bites](recipes/chicken-pot-pie-bites.md)
 - [Brown Sugar Meatloaf](recipes/brown-sugar-meatloaf.md)
 - [Stuffed Bell Peppers](recipes/stuffed-bell-peppers.md)
+- [Thai Lettuce Wraps](recipes/thai-lettuce-wraps.md)
