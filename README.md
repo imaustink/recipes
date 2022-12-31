@@ -34,3 +34,4 @@ Welcome to the Kurpuis family's recipe index!
 - [Hyatt’s “Camp Dip”](recipes/hyatt%E2%80%99s-%E2%80%9Ccamp-dip%E2%80%9D.md)
 - [Jim Bill’s Spaghetti Sauce](recipes/jim-bill%E2%80%99s-spaghetti-sauce.md)
 - [Mini Cheesecakes (GF or Reg)](recipes/mini-cheesecakes-%28gf-or-reg%29.md)
+- [Cilantro Lime Crock Pot Tacos](recipes/cilantro-lime-crock-pot-tacos.md)
