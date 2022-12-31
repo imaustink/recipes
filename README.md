@@ -29,3 +29,4 @@ Welcome to the Kurpuis family's recipe index!
 - [Kristie’s PB Cup Cookies](recipes/kristie%E2%80%99s-pb-cup-cookies.md)
 - [Apple Pancakes](recipes/apple-pancakes.md)
 - [Tater Tot Casserole](recipes/tater-tot-casserole.md)
+- [5-Ingredient Raspberry Cheesecake Thumbprint Cookies](recipes/5-ingredient-raspberry-cheesecake-thumbprint-cookies.md)
