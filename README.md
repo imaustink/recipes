@@ -38,3 +38,4 @@ Welcome to the Kurpuis family's recipe index!
 - [Jim Bill’s Smoked Salmon Dip](recipes/jim-bill%E2%80%99s-smoked-salmon-dip.md)
 - [Jim Bill’s Easy BBQ Halibut](recipes/jim-bill%E2%80%99s-easy-bbq-halibut.md)
 - [Extra Thick Chocolate Chip Cookies](recipes/extra-thick-chocolate-chip-cookies.md)
+- [Gauffres Belges (Belgian Waffles)](recipes/gauffres-belges-%28belgian-waffles%29.md)
