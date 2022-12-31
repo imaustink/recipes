@@ -45,3 +45,4 @@ Welcome to the Kurpuis family's recipe index!
 - [Pasta Salad](recipes/pasta-salad.md)
 - [Bacon Wrapped Dates](recipes/bacon-wrapped-dates.md)
 - [Maple Brown Sugar Latte](recipes/maple-brown-sugar-latte.md)
+- [Hyatt’s Smoked Salmon](recipes/hyatt%E2%80%99s-smoked-salmon.md)
