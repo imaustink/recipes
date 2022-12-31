@@ -1,5 +1,5 @@
 (function (global) {
-    const LOGIN_PATH = "/login";
+    const LOGIN_PATH = "/admin/login";
 
     const authToken = global.localStorage.getItem("authToken");
     const currentPath = global.location.pathname;

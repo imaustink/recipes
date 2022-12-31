@@ -38,7 +38,7 @@ export function getSessionToken() {
 
 export function loginRedirect() {
 	const redirect = new URLSearchParams(window.location.search).get('redirect');
-	window.location.href = redirect ? redirect : '/';
+	window.location.href = redirect ? redirect : '/admin';
 }
 
 export async function login(credentials: LoginCredentials) {

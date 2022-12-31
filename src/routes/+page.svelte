@@ -27,7 +27,7 @@
 
         const request = await fetch("https://l3le6qdmsf.execute-api.us-east-1.amazonaws.com/production/recipes", requestOptions);
         const response = await request.json();
-        window.location.href = "/success";
+        window.location.href = "/admin/success";
     }
 
     function handleSubmit(event) {
