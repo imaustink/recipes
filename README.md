@@ -21,3 +21,4 @@ Welcome to the Kurpuis family's recipe index!
 - [Broccoli Pasta Salad](recipes/broccoli-pasta-salad.md)
 - [Aunt Stephanie’s GF Chocolate Chip Cookies](recipes/aunt-stephanie%E2%80%99s-gf-chocolate-chip-cookies.md)
 - [Beef Stew](recipes/beef-stew.md)
+- [Chicken Spaghetti](recipes/chicken-spaghetti.md)
