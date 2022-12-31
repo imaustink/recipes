@@ -32,3 +32,4 @@ Welcome to the Kurpuis family's recipe index!
 - [5-Ingredient Raspberry Cheesecake Thumbprint Cookies](recipes/5-ingredient-raspberry-cheesecake-thumbprint-cookies.md)
 - [Perkins Biscuits & Gravy](recipes/perkins-biscuits-%26-gravy.md)
 - [Hyatt’s “Camp Dip”](recipes/hyatt%E2%80%99s-%E2%80%9Ccamp-dip%E2%80%9D.md)
+- [Jim Bill’s Spaghetti Sauce](recipes/jim-bill%E2%80%99s-spaghetti-sauce.md)
