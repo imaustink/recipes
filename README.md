@@ -17,3 +17,4 @@ Welcome to the Kurpuis family's recipe index!
 - [Grandmas Sue’s Biscuits](recipes/grandmas-sue%E2%80%99s-biscuits.md)
 - [Homemade Pretzels](recipes/homemade-pretzels.md)
 - [Beer Cheese Sauce](recipes/beer-cheese-sauce.md)
+- [No Bake Granola Bites](recipes/no-bake-granola-bites.md)
