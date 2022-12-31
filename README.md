@@ -50,3 +50,4 @@ Welcome to the Kurpuis family's recipe index!
 - [Annies Italian Breakfast Casserole](recipes/annies-italian-breakfast-casserole.md)
 - [Jim Bill’s Mulled Wine](recipes/jim-bill%E2%80%99s-mulled-wine.md)
 - [Greek Vegetarian Wraps](recipes/greek-vegetarian-wraps.md)
+- [Street Corn Dip](recipes/street-corn-dip.md)
