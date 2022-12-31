@@ -1,4 +1,5 @@
 include:
   - "admin/_app/**/*.*"
+  - "admin/_app/immutable/assets/_page-ca175da2.css"
 title: Kurpuis Family Recipes
 description: This website in an index of recipes from the Kurpuis family and many their friends.
