@@ -15,3 +15,4 @@ Welcome to the Kurpuis family's recipe index!
 - [Stuffed Bell Peppers](recipes/stuffed-bell-peppers.md)
 - [Thai Lettuce Wraps](recipes/thai-lettuce-wraps.md)
 - [Grandmas Sue’s Biscuits](recipes/grandmas-sue%E2%80%99s-biscuits.md)
+- [Homemade Pretzels](recipes/homemade-pretzels.md)
