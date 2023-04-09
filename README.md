@@ -50,5 +50,5 @@ Welcome to the Kurpuis family's recipe index!
 - [Greek Vegetarian Wraps](recipes/greek-vegetarian-wraps.md)
 - [Street Corn Dip](recipes/street-corn-dip.md)
 - [Austin’s Great Grandma Hall’s Coffee Cake (1922)](recipes/austin%E2%80%99s-great-grandma-hall%E2%80%99s-coffee-cake-%281922%29.md)
-- [Chick Risotto b59d2e59-6576-45f2-b4d6-aac9b4e704fe](recipes/chick-risotto-b59d2e59-6576-45f2-b4d6-aac9b4e704fe.md)
+- [Chick Risotto 48f56b8b-d66d-4c47-b8ff-0b019cb495dd](recipes/chick-risotto-48f56b8b-d66d-4c47-b8ff-0b019cb495dd.md)
 - [Chick Risotto d7e3e3fc-b922-43c1-aaae-aa240071c1ab](recipes/chick-risotto-d7e3e3fc-b922-43c1-aaae-aa240071c1ab.md)
