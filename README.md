@@ -52,3 +52,4 @@ Welcome to the Kurpuis family's recipe index!
 - [Austin’s Great Grandma Hall’s Coffee Cake (1922)](recipes/austin%E2%80%99s-great-grandma-hall%E2%80%99s-coffee-cake-%281922%29.md)
 - [Chick Risotto 48f56b8b-d66d-4c47-b8ff-0b019cb495dd](recipes/chick-risotto-48f56b8b-d66d-4c47-b8ff-0b019cb495dd.md)
 - [Chick Risotto d7e3e3fc-b922-43c1-aaae-aa240071c1ab](recipes/chick-risotto-d7e3e3fc-b922-43c1-aaae-aa240071c1ab.md)
+- [Chick Risotto 17203de8-3d5b-4a27-86f7-4b5c74f2f5cf](recipes/chick-risotto-17203de8-3d5b-4a27-86f7-4b5c74f2f5cf.md)
