@@ -2,48 +2,58 @@
     import "../app.css";
     import { onMount } from 'svelte';
     import { getSessionToken } from "../authentication";
+    import { saveWipData, getWipData, destroyWipData } from "../work-in-progress";
 
+    
     let loading = false;
-    let title = "";
+    let title;
     let ingredients;
     let directions;
-    let tags = "";
+    let tags;
 
     onMount(async () => {
-          ingredients = new SimpleMDE({ element: document.getElementById("Ingredients"), status: false });
-          directions = new SimpleMDE({ element: document.getElementById("Directions"), status: false });
+      const wipData = getWipData();
+      title = wipData.title;
+      tags = wipData.tags?.join(",");
+      ingredients = new SimpleMDE({ element: document.getElementById("Ingredients"), status: false });
+      directions = new SimpleMDE({ element: document.getElementById("Directions"), status: false });
+      if (wipData.ingredients) ingredients.value(wipData.ingredients);
+      if (wipData.directions) directions.value(wipData.directions);
     });
 
     async function createRecipe(body) {
-        const authToken = getSessionToken();
-        const myHeaders = new Headers({
-            "Content-Type": "application/json",
-            "Authorization": `Bearer ${authToken}`
-        });
-        const requestOptions = {
-            method: 'POST',
-            headers: myHeaders,
-            body: JSON.stringify(body)
-        };
+      const authToken = getSessionToken();
+      const myHeaders = new Headers({
+          "Content-Type": "application/json",
+          "Authorization": `Bearer ${authToken}`
+      });
+      const requestOptions = {
+          method: 'POST',
+          headers: myHeaders,
+          body: JSON.stringify(body)
+      };
 
-        const request = await fetch("https://recipes-api.kurpuis.com/recipes", requestOptions);
-        const response = await request.json();
-        window.location.href = "/admin/success";
+      const request = await fetch("https://recipes-api.kurpuis.com/recipes", requestOptions);
+      const response = await request.json();
+      window.location.href = "/admin/success";
     }
 
     function handleSubmit(event) {
-        event.preventDefault();
-        loading = true;
-        createRecipe({
-            title,
-            ingredients: ingredients.value(),
-            directions: directions.value(),
-            tags: tags.split(",")
-        }).catch((error) => {
-          alert(error.message);
-        }).finally(() => {
-          loading = false;
-        });
+      event.preventDefault();
+      loading = true;
+      const recipe = {
+        title,
+        ingredients: ingredients.value(),
+        directions: directions.value(),
+        tags: tags.split(",")
+      };
+      saveWipData(recipe);
+      createRecipe(recipe).catch((error) => {
+        alert(error.message);
+      }).finally(() => {
+        loading = false;
+        destroyWipData();
+      });
     }
 
 </script>
