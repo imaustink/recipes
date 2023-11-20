@@ -21,13 +21,5 @@
 * Spread 4 cups of the bread cubes in light greased 13x9” pan, top with half of the sausage mixture and half of the cheese. Repeat with remaining bread, sausage mixture and cheese
 * Whisk together eggs and milk and pour over bread in pan. You can cover and chill in the fridge overnight the night before, or bake that morning
 * Cover and bake at 325 degrees for 1 hour (or until bubbly and hot all the way through) 
-* Jim Bill’s Old Fashioned Apple Butter
-* Ingredients:
-* 40 lbs apples – sauced
-* 12 cups sugar
-* 15 tsp ground cinnamon
-* 5 tsp grove cloves
-* 5 tsp ground allspice 
-* 2 1/2 tsp nutmeg
 
 __tags:__ 

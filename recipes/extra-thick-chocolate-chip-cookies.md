@@ -25,14 +25,5 @@
 * Scoop into large cookie liners, press cookies into liners until top is flat and then top with some additional chocolate chips/chunks on top and coarse sea salt
 * Cover and chill overnight
 * Bake at 350 degrees for 15-20 mins until golden brown
-* Focaccia Bread
-* Ingredients:
-* 2 cups all-purpose flour
-* 1 tsp instant yeast
-* 1 tsp salt
-* 1 cup warm water
-* Olive oil
-* Rosemary
-* Flaky salt
 
 __tags:__ 

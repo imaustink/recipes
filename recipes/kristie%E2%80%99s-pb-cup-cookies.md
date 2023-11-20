@@ -22,12 +22,5 @@
 * Beat in the egg, vanilla and milk, then add the flour mixture and mix well
 * Shape into 40 or so balls and place into ungreased mini muffin pan
 * Bake for 8 minutes, remove from oven and immediately press a mini peanut butter cup into each ball. Cool then remove 
-* Kristie’s Christmas Crack
-* Ingredients:
-* Saltine crackers
-* 1 cup brown sugar
-* 1 cup butter (2 sticks)
-* 1 bag chocolate chips
-* 1 bag Heath toffee
 
 __tags:__ 
