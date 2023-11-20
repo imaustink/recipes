@@ -16,7 +16,7 @@ export async function createSessionToken(credentials: LoginCredentials) {
 	};
 
 	const request = await fetch(
-		'https://l3le6qdmsf.execute-api.us-east-1.amazonaws.com/production/login',
+		'https://recipes-api.kurpuis.com/login',
 		requestOptions
 	);
 	const response = await request.json();

@@ -25,7 +25,7 @@
             body: JSON.stringify(body)
         };
 
-        const request = await fetch("https://l3le6qdmsf.execute-api.us-east-1.amazonaws.com/production/recipes", requestOptions);
+        const request = await fetch("https://recipes-api.kurpuis.com/recipes", requestOptions);
         const response = await request.json();
         window.location.href = "/admin/success";
     }
