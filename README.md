@@ -55,4 +55,4 @@ Welcome to the Kurpuis family's recipe index!
 - [Chick Risotto 55e6d79b-0b76-4e05-8695-adbffb7f7055](recipes/chick-risotto-55e6d79b-0b76-4e05-8695-adbffb7f7055.md)
 - [Chick Risotto 0540507c-ca33-4c8a-b4d7-126c03478d18](recipes/chick-risotto-0540507c-ca33-4c8a-b4d7-126c03478d18.md)
 - [Chick Risotto 25ef266d-ce30-4809-9e60-6322b66bda83](recipes/chick-risotto-25ef266d-ce30-4809-9e60-6322b66bda83.md)
-- [Chick Risotto cec83b0e-c634-497b-9afd-e6c526de88d4](recipes/chick-risotto-cec83b0e-c634-497b-9afd-e6c526de88d4.md)
+- [Chick Risotto b606b514-1734-447c-8d38-1f81258b47fa](recipes/chick-risotto-b606b514-1734-447c-8d38-1f81258b47fa.md)
