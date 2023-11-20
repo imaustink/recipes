@@ -13,8 +13,8 @@
 
     onMount(async () => {
       const wipData = getWipData();
-      title = wipData.title;
-      tags = wipData.tags?.join(",");
+      title = wipData.title || "";
+      tags = wipData.tags?.join(",") || "";
       ingredients = new SimpleMDE({ element: document.getElementById("Ingredients"), status: false });
       directions = new SimpleMDE({ element: document.getElementById("Directions"), status: false });
       if (wipData.ingredients) ingredients.value(wipData.ingredients);
@@ -45,7 +45,7 @@
         title,
         ingredients: ingredients.value(),
         directions: directions.value(),
-        tags: tags.split(",")
+        tags: tags?.split(",")
       };
       saveWipData(recipe);
       createRecipe(recipe).catch((error) => {
