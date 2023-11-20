@@ -50,3 +50,4 @@ Welcome to the Kurpuis family's recipe index!
 - [Greek Vegetarian Wraps](recipes/greek-vegetarian-wraps.md)
 - [Street Corn Dip](recipes/street-corn-dip.md)
 - [Austin’s Great Grandma Hall’s Coffee Cake (1922)](recipes/austin%E2%80%99s-great-grandma-hall%E2%80%99s-coffee-cake-%281922%29.md)
+- [Hyatt's Holiday Chex Mix](recipes/hyatt%27s-holiday-chex-mix.md)
