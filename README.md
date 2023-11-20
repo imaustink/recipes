@@ -56,3 +56,4 @@ Welcome to the Kurpuis family's recipe index!
 - [Leanna’s Chicken and Rice ](recipes/leanna%E2%80%99s-chicken-and-rice-.md)
 - [Focaccia Bread](recipes/focaccia-bread.md)
 - [Kristie’s Christmas Crack](recipes/kristie%E2%80%99s-christmas-crack.md)
+- [TikTok Pasta](recipes/tiktok-pasta.md)
