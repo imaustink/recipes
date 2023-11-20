@@ -3,6 +3,7 @@
     import { onMount } from 'svelte';
     import { getSessionToken } from "../authentication";
 
+    let loading = false;
     let title = "";
     let ingredients;
     let directions;
@@ -32,11 +33,16 @@
 
     function handleSubmit(event) {
         event.preventDefault();
+        loading = true;
         createRecipe({
             title,
             ingredients: ingredients.value(),
             directions: directions.value(),
             tags: tags.split(",")
+        }).catch((error) => {
+          alert(error.message);
+        }).finally(() => {
+          loading = false;
         });
     }
 
@@ -62,7 +68,7 @@
             <div class="col-span-3 sm:col-span-3">
               <label for="company-website" class="block text-sm font-medium text-gray-700">Title</label>
               <div class="mt-1 flex shadow-sm">
-                <input bind:value={title} type="text" name="company-website" class="block w-full flex-1 rounded-md border-gray-300 focus:border-indigo-500 focus:ring-indigo-500 sm:text-sm" placeholder="Fried neighborhood cat" />
+                <input bind:value={title} type="text" name="company-website" class="block w-full flex-1 rounded-md border-gray-300 focus:border-indigo-500 focus:ring-indigo-500 sm:text-sm" placeholder="Pork Banh Mi Tacos" />
               </div>
             </div>
           </div>
@@ -70,7 +76,7 @@
             <div>
               <label for="about" class="block text-sm font-medium text-gray-700">Ingredients</label>
               <div class="mt-1">
-                  <textarea id="Ingredients" name="about" rows="3" class="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-indigo-500 focus:ring-indigo-500 sm:text-sm" placeholder="you@example.com" />
+                  <textarea id="Ingredients" name="about" rows="3" class="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-indigo-500 focus:ring-indigo-500 sm:text-sm" />
               </div>
               <p class="mt-2 text-sm text-gray-500">List the ingredients needed to make this recipe.</p>
             </div>
@@ -79,7 +85,7 @@
             <div>
               <label for="about" class="block text-sm font-medium text-gray-700">Directions</label>
               <div class="mt-1">
-                  <textarea id="Directions" name="about" rows="3" class="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-indigo-500 focus:ring-indigo-500 sm:text-sm" placeholder="you@example.com" />
+                  <textarea id="Directions" name="about" rows="3" class="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-indigo-500 focus:ring-indigo-500 sm:text-sm" />
               </div>
               <p class="mt-2 text-sm text-gray-500">Describe the steps to make this recipe.</p>
             </div>
@@ -88,18 +94,18 @@
             <div class="col-span-3 sm:col-span-3">
               <label for="company-website" class="block text-sm font-medium text-gray-700">Tags</label>
               <div class="mt-1 flex shadow-sm">
-                <input bind:value={tags} type="text" name="company-website" class="block w-full flex-1 rounded-md border-gray-300 focus:border-indigo-500 focus:ring-indigo-500 sm:text-sm" placeholder="fried, cat" />
+                <input bind:value={tags} type="text" name="company-website" class="block w-full flex-1 rounded-md border-gray-300 focus:border-indigo-500 focus:ring-indigo-500 sm:text-sm" placeholder="asian, fusion, pork, tacos" />
               </div>
               <p class="mt-2 text-sm text-gray-500">Describe the steps to make this recipe.</p>
             </div>
           </div>
           <div class="bg-gray-50 px-4 py-3 text-right sm:px-6">
-            <button type="submit" class="inline-flex justify-center rounded-md border border-transparent bg-indigo-600 py-2 px-4 text-sm font-medium text-white shadow-sm hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2">
-              <!-- Heroicon name: mini/check -->
-              <svg class="-ml-1 mr-2 h-5 w-5" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
-                <path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd" />
-              </svg>
-              Save
+            <button disabled='{loading}' type="submit" class="inline-flex justify-center rounded-md border border-transparent bg-indigo-600 py-2 px-4 text-sm font-medium text-white shadow-sm hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2">
+              {#if loading}
+                Loading...
+              {:else}
+                Save
+              {/if}
             </button>
           </div>
         </div>

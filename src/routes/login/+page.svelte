@@ -1,12 +1,20 @@
 <script>
     import "../../app.css";
     import { login } from "../../authentication";
+    let loading = false;
     let email = "";
     let password = "";
 
     function handleSubmit(event) {
+        loading = true;
         event.preventDefault();
-        login({ email, password }).then(console.log).catch(console.error);
+        login({ email, password })
+          .catch((error) => {
+            alert(error.message);
+            console.error(error);
+          }).finally(() => {
+            loading = false
+          });
     }
 
 </script>
@@ -37,7 +45,7 @@
         </div>
   
         <div>
-          <button type="submit" class="group relative flex w-full justify-center rounded-md border border-transparent bg-indigo-600 py-2 px-4 text-sm font-medium text-white hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2">
+          <button disabled='{loading}' type="submit" class="group relative flex w-full justify-center rounded-md border border-transparent bg-indigo-600 py-2 px-4 text-sm font-medium text-white hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2">
             <span class="absolute inset-y-0 left-0 flex items-center pl-3">
               <!-- Heroicon name: mini/lock-closed -->
               <svg class="h-5 w-5 text-indigo-500 group-hover:text-indigo-400" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">

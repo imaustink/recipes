@@ -33,7 +33,7 @@ export function destroySessionToken() {
 }
 
 export function getSessionToken() {
-	localStorage.getItem(AUTH_TOKEN_KEY);
+	return localStorage.getItem(AUTH_TOKEN_KEY);
 }
 
 export function loginRedirect() {
