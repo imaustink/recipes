@@ -53,3 +53,4 @@ Welcome to the Kurpuis family's recipe index!
 - [Hyatt's Holiday Chex Mix](recipes/hyatt%27s-holiday-chex-mix.md)
 - [Copycat LeVain Cookies](recipes/copycat-levain-cookies.md)
 - [Jim Bill’s Old Fashioned Apple Butter](recipes/jim-bill%E2%80%99s-old-fashioned-apple-butter.md)
+- [Leanna’s Chicken and Rice ](recipes/leanna%E2%80%99s-chicken-and-rice-.md)
