@@ -20,18 +20,5 @@
 * Fold sifter mixture into bowl 1/4 cup at a time
 * Put mixture into angel food cake pan, cook for 30 mins 
 * When done, the center will be a little separated. Put a glass bottle into hole and tip pan upside down, let cool like that 
-* Hyatt’s Chex Mix
-* Ingredients:
-* 1 big box of wheat chex
-* 1 big box of corn chex
-* 1 big box of rice chex
-* 14-16 oz of Rye chips
-* 1/2 bag of twisty pretzels
-* 1/2 jar Costco mixed nuts
-* 2 cubes butter
-* 2 tbsp worsheshire sauce 
-* 1 tbsp onion powder
-* 1 tbsp Johnny’s seasoning
-* (If too salty, add 1 tbsp of sugar)
 
 __tags:__ 

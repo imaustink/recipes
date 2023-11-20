@@ -25,18 +25,6 @@
 * Add a generous amount of Johnny’s Garlic seasoning and pepper (“until it looks beautiful”)
 * Add sodium citrate, stir well. Then add Colby jack + other cheese of choice handfuls at a time and melt all the cheese into a rue (if it is super thick, you can add a bit more milk)
 * Add the cooked noodles into the pot, stir well, then put mixture into a baking dish
-* Top dish with a light sprinkle/layer of Dot’s pretzel crumbs, parmesan cheese and Johnny’s garlic seasoning and bake for 30 minutes 
-* Copycat LeVain Cookies
-* Ingredients (note: recommend doubling recipe since each recipe makes only 8-10 cookies)
-* 1 cup softened butter cut into tablespoons 
-* 3/4 cup of brown sugar
-* 1/2 cup sugar 
-* 2 eggs
-* 1 cup cake flour 
-* 1 1/2 cups all purpose flour 
-* 1 tsp baking powder
-* 1 tsp baking soda 
-* 1/2 tsp coarse sea salt
-* 1 cups chocolate chips
+* Top dish with a light sprinkle/layer of Dot’s pretzel crumbs, parmesan cheese and Johnny’s garlic seasoning and bake for 30 minutes
 
 __tags:__ 
