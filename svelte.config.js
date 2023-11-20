@@ -9,7 +9,10 @@ const config = {
 
 	kit: {
 		adapter: adapter({ pages: "admin", assets: "admin" }),
-		appDir: "app_"
+		appDir: "app_",
+		paths: {
+			base: "/admin"
+		}
 	}
 };
 
