@@ -57,3 +57,5 @@ Welcome to the Kurpuis family's recipe index!
 - [Focaccia Bread](recipes/focaccia-bread.md)
 - [Kristie’s Christmas Crack](recipes/kristie%E2%80%99s-christmas-crack.md)
 - [TikTok Pasta](recipes/tiktok-pasta.md)
+- [Instant Pot Birria](recipes/instant-pot-birria.md)
+
