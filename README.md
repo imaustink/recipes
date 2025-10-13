@@ -58,4 +58,5 @@ Welcome to the Kurpuis family's recipe index!
 - [Kristie’s Christmas Crack](recipes/kristie%E2%80%99s-christmas-crack.md)
 - [TikTok Pasta](recipes/tiktok-pasta.md)
 - [Skinny Chicken Parmesan](recipes/skinny-chicken-parmesan.md)
+- [Easy Crock Pot Chuck Roast](recipes/easy-crock-pot-chuck-roast.md)
 
