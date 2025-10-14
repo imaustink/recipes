@@ -63,4 +63,5 @@ Welcome to the Kurpuis family's recipe index!
 - [Chicken Gnocchi Soup](recipes/chicken-gnocchi-soup.md)
 - [Slow Cooker Cilantro Lime Chicken](recipes/slow-cooker-cilantro-lime-chicken.md)
 - [Beef and Broccoli Ramen](recipes/beef-and-broccoli-ramen.md)
+- [Crockpot Chicken and Ravioli](recipes/crockpot-chicken-and-ravioli.md)
 
