@@ -60,4 +60,5 @@ Welcome to the Kurpuis family's recipe index!
 - [Skinny Chicken Parmesan](recipes/skinny-chicken-parmesan.md)
 - [Easy Crock Pot Chuck Roast](recipes/easy-crock-pot-chuck-roast.md)
 - [Creamy Chicken and Wild Rice Soup](recipes/creamy-chicken-and-wild-rice-soup.md)
+- [Chicken Gnocchi Soup](recipes/chicken-gnocchi-soup.md)
 
