@@ -62,4 +62,5 @@ Welcome to the Kurpuis family's recipe index!
 - [Creamy Chicken and Wild Rice Soup](recipes/creamy-chicken-and-wild-rice-soup.md)
 - [Chicken Gnocchi Soup](recipes/chicken-gnocchi-soup.md)
 - [Slow Cooker Cilantro Lime Chicken](recipes/slow-cooker-cilantro-lime-chicken.md)
+- [Beef and Broccoli Ramen](recipes/beef-and-broccoli-ramen.md)
 
