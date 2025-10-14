@@ -59,4 +59,5 @@ Welcome to the Kurpuis family's recipe index!
 - [TikTok Pasta](recipes/tiktok-pasta.md)
 - [Skinny Chicken Parmesan](recipes/skinny-chicken-parmesan.md)
 - [Easy Crock Pot Chuck Roast](recipes/easy-crock-pot-chuck-roast.md)
+- [Creamy Chicken and Wild Rice Soup](recipes/creamy-chicken-and-wild-rice-soup.md)
 
