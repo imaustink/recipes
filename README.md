@@ -61,4 +61,5 @@ Welcome to the Kurpuis family's recipe index!
 - [Easy Crock Pot Chuck Roast](recipes/easy-crock-pot-chuck-roast.md)
 - [Creamy Chicken and Wild Rice Soup](recipes/creamy-chicken-and-wild-rice-soup.md)
 - [Chicken Gnocchi Soup](recipes/chicken-gnocchi-soup.md)
+- [Slow Cooker Cilantro Lime Chicken](recipes/slow-cooker-cilantro-lime-chicken.md)
 
