@@ -64,4 +64,5 @@ Welcome to the Kurpuis family's recipe index!
 - [Slow Cooker Cilantro Lime Chicken](recipes/slow-cooker-cilantro-lime-chicken.md)
 - [Beef and Broccoli Ramen](recipes/beef-and-broccoli-ramen.md)
 - [Crockpot Chicken and Ravioli](recipes/crockpot-chicken-and-ravioli.md)
+- [Perfect Pumpkin Bread](recipes/perfect-pumpkin-bread.md)
 
