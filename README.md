@@ -66,4 +66,5 @@ Welcome to the Kurpuis family's recipe index!
 - [Crockpot Chicken and Ravioli](recipes/crockpot-chicken-and-ravioli.md)
 - [Perfect Pumpkin Bread](recipes/perfect-pumpkin-bread.md)
 - [Brown Sugar Pork Chops](recipes/brown-sugar-pork-chops.md)
+- [Chicken Fettuccine Alfredo](recipes/chicken-fettuccine-alfredo.md)
 
