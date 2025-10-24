@@ -67,4 +67,5 @@ Welcome to the Kurpuis family's recipe index!
 - [Perfect Pumpkin Bread](recipes/perfect-pumpkin-bread.md)
 - [Brown Sugar Pork Chops](recipes/brown-sugar-pork-chops.md)
 - [Chicken Fettuccine Alfredo](recipes/chicken-fettuccine-alfredo.md)
+- [Creamy Pan-Fried Pork Chops](recipes/creamy-pan-fried-pork-chops.md)
 
