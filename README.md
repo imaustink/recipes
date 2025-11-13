@@ -75,4 +75,5 @@ Welcome to the Kurpuis family's recipe index!
 - [Tuscan Chicken and Orzo](recipes/tuscan-chicken-and-orzo.md)
 - [French Onion Chicken](recipes/french-onion-chicken.md)
 - [Crockpot Bourbon Chicken](recipes/crockpot-bourbon-chicken.md)
+- [Chicken Asparagus Orzo](recipes/chicken-asparagus-orzo.md)
 
