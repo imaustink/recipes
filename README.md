@@ -70,4 +70,5 @@ Welcome to the Kurpuis family's recipe index!
 - [Creamy Pan-Fried Pork Chops](recipes/creamy-pan-fried-pork-chops.md)
 - [Stuffed Pepper Casserole](recipes/stuffed-pepper-casserole.md)
 - [Chicken Tortellini Soup (Slow Cooker)](recipes/chicken-tortellini-soup-(slow-cooker).md)
+- [30-Minute Bruschetta Chicken](recipes/30-minute-bruschetta-chicken.md)
 
