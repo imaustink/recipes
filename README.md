@@ -72,4 +72,5 @@ Welcome to the Kurpuis family's recipe index!
 - [Chicken Tortellini Soup (Slow Cooker)](recipes/chicken-tortellini-soup-(slow-cooker).md)
 - [30-Minute Bruschetta Chicken](recipes/30-minute-bruschetta-chicken.md)
 - [Lemon Chicken Orzo Soup](recipes/lemon-chicken-orzo-soup.md)
+- [Tuscan Chicken and Orzo](recipes/tuscan-chicken-and-orzo.md)
 
