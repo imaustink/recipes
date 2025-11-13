@@ -69,4 +69,5 @@ Welcome to the Kurpuis family's recipe index!
 - [Chicken Fettuccine Alfredo](recipes/chicken-fettuccine-alfredo.md)
 - [Creamy Pan-Fried Pork Chops](recipes/creamy-pan-fried-pork-chops.md)
 - [Stuffed Pepper Casserole](recipes/stuffed-pepper-casserole.md)
+- [Chicken Tortellini Soup (Slow Cooker)](recipes/chicken-tortellini-soup-(slow-cooker).md)
 
