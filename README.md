@@ -79,4 +79,5 @@ Welcome to the Kurpuis family's recipe index!
 - [Easy Chocolate Mousse](recipes/easy-chocolate-mousse.md)
 - [Cube Steak](recipes/cube-steak.md)
 - [Beef & Parmesan Tortellini](recipes/beef-&-parmesan-tortellini.md)
+- [Whipped Feta Crostini with Hot Honey](recipes/whipped-feta-crostini-with-hot-honey.md)
 
