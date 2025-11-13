@@ -80,4 +80,5 @@ Welcome to the Kurpuis family's recipe index!
 - [Cube Steak](recipes/cube-steak.md)
 - [Beef & Parmesan Tortellini](recipes/beef-&-parmesan-tortellini.md)
 - [Whipped Feta Crostini with Hot Honey](recipes/whipped-feta-crostini-with-hot-honey.md)
+- [Lemon Garlic Chicken Thighs with Cacio e Pepe Spaghetti](recipes/lemon-garlic-chicken-thighs-with-cacio-e-pepe-spaghetti.md)
 
