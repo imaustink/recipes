@@ -74,4 +74,5 @@ Welcome to the Kurpuis family's recipe index!
 - [Lemon Chicken Orzo Soup](recipes/lemon-chicken-orzo-soup.md)
 - [Tuscan Chicken and Orzo](recipes/tuscan-chicken-and-orzo.md)
 - [French Onion Chicken](recipes/french-onion-chicken.md)
+- [Crockpot Bourbon Chicken](recipes/crockpot-bourbon-chicken.md)
 
