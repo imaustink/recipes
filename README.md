@@ -78,4 +78,5 @@ Welcome to the Kurpuis family's recipe index!
 - [Chicken Asparagus Orzo](recipes/chicken-asparagus-orzo.md)
 - [Easy Chocolate Mousse](recipes/easy-chocolate-mousse.md)
 - [Cube Steak](recipes/cube-steak.md)
+- [Beef & Parmesan Tortellini](recipes/beef-&-parmesan-tortellini.md)
 
