@@ -73,4 +73,5 @@ Welcome to the Kurpuis family's recipe index!
 - [30-Minute Bruschetta Chicken](recipes/30-minute-bruschetta-chicken.md)
 - [Lemon Chicken Orzo Soup](recipes/lemon-chicken-orzo-soup.md)
 - [Tuscan Chicken and Orzo](recipes/tuscan-chicken-and-orzo.md)
+- [French Onion Chicken](recipes/french-onion-chicken.md)
 
