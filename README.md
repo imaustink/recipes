@@ -76,4 +76,5 @@ Welcome to the Kurpuis family's recipe index!
 - [French Onion Chicken](recipes/french-onion-chicken.md)
 - [Crockpot Bourbon Chicken](recipes/crockpot-bourbon-chicken.md)
 - [Chicken Asparagus Orzo](recipes/chicken-asparagus-orzo.md)
+- [Easy Chocolate Mousse](recipes/easy-chocolate-mousse.md)
 
