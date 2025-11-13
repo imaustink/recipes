@@ -1,4 +1,4 @@
-# Easy Crock Pot Chuck Roast
+# French Onion Crock Pot Chuck Roast
 
 ## Ingredients
 
@@ -8,7 +8,7 @@
 4. Garlic, to taste
 5. 1 onion
 6. 1 1/2 cups beef broth
-7. 12 ounces beer
+7. 12 ounces beer(if no beer on hand, a few tbsp of bourbon and ~1 cup of white wine)
 8. Worcestershire sauce, to taste
 9. Minced garlic, to taste
 10. 1 au jus packet
@@ -19,7 +19,7 @@
 2. Sear the roast in a hot skillet until browned on all sides.
 3. Remove the roast and set aside.
 4. In the same skillet, add the onion and sauté until translucent.
-5. Pour in the beef broth and beer.
+5. Pour in the beef broth and beer (or bourbon  white wine) 
 6. Add a little Worcestershire sauce and minced garlic.
 7. Bring the mixture to a bubble.
 8. Stir in the au jus packet and scrape the bottom of the skillet to release any browned bits.
