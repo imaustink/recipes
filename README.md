@@ -82,4 +82,5 @@ Welcome to the Kurpuis family's recipe index!
 - [Lemon Garlic Chicken Thighs with Cacio e Pepe Spaghetti](recipes/lemon-garlic-chicken-thighs-with-cacio-e-pepe-spaghetti.md)
 - [Beef Stew](recipes/beef-stew.md)
 - [Crockpot Pork Carnitas](recipes/crockpot-pork-carnitas.md)
+- [Crock-Pot Tender Steak Tips](recipes/crock-pot-tender-steak-tips.md)
 
