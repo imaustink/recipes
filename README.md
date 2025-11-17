@@ -88,4 +88,5 @@ Welcome to the Kurpuis family's recipe index!
 - [Parmesan Garlic Chicken Sandwiches](recipes/parmesan-garlic-chicken-sandwiches.md)
 - [Mexican Ground Beef Rice Skillet (Without Black Beans)](recipes/mexican-ground-beef-rice-skillet-(without-black-beans).md)
 - [Homemade Pumpkin Sauce for Pumpkin Spice Lattes](recipes/homemade-pumpkin-sauce-for-pumpkin-spice-lattes.md)
+- [Crock Pot Turkey Breast with Cranberry Sauce](recipes/crock-pot-turkey-breast-with-cranberry-sauce.md)
 
