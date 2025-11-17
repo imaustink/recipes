@@ -83,4 +83,5 @@ Welcome to the Kurpuis family's recipe index!
 - [Beef Stew](recipes/beef-stew.md)
 - [Crockpot Pork Carnitas](recipes/crockpot-pork-carnitas.md)
 - [Crock-Pot Tender Steak Tips](recipes/crock-pot-tender-steak-tips.md)
+- [Oatmeal Cream Pies](recipes/oatmeal-cream-pies.md)
 
