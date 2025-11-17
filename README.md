@@ -90,4 +90,5 @@ Welcome to the Kurpuis family's recipe index!
 - [Homemade Pumpkin Sauce for Pumpkin Spice Lattes](recipes/homemade-pumpkin-sauce-for-pumpkin-spice-lattes.md)
 - [Crock Pot Turkey Breast with Cranberry Sauce](recipes/crock-pot-turkey-breast-with-cranberry-sauce.md)
 - [Cheesy Steak and Rice Tacos](recipes/cheesy-steak-and-rice-tacos.md)
+- [Hawaiian Pork in the Crock Pot](recipes/hawaiian-pork-in-the-crock-pot.md)
 
