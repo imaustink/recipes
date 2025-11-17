@@ -93,4 +93,5 @@ Welcome to the Kurpuis family's recipe index!
 - [Hawaiian Pork in the Crock Pot](recipes/hawaiian-pork-in-the-crock-pot.md)
 - [Crock-Pot BBQ Chicken Sandwiches](recipes/crock-pot-bbq-chicken-sandwiches.md)
 - [Air Fried Ravioli](recipes/air-fried-ravioli.md)
+- [Cheesy Hamburger Helper](recipes/cheesy-hamburger-helper.md)
 
