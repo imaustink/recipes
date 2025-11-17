@@ -87,4 +87,5 @@ Welcome to the Kurpuis family's recipe index!
 - [Grilled Cheese Beef and Rice Burritos](recipes/grilled-cheese-beef-and-rice-burritos.md)
 - [Parmesan Garlic Chicken Sandwiches](recipes/parmesan-garlic-chicken-sandwiches.md)
 - [Mexican Ground Beef Rice Skillet (Without Black Beans)](recipes/mexican-ground-beef-rice-skillet-(without-black-beans).md)
+- [Homemade Pumpkin Sauce for Pumpkin Spice Lattes](recipes/homemade-pumpkin-sauce-for-pumpkin-spice-lattes.md)
 
