@@ -91,4 +91,5 @@ Welcome to the Kurpuis family's recipe index!
 - [Crock Pot Turkey Breast with Cranberry Sauce](recipes/crock-pot-turkey-breast-with-cranberry-sauce.md)
 - [Cheesy Steak and Rice Tacos](recipes/cheesy-steak-and-rice-tacos.md)
 - [Hawaiian Pork in the Crock Pot](recipes/hawaiian-pork-in-the-crock-pot.md)
+- [Crock-Pot BBQ Chicken Sandwiches](recipes/crock-pot-bbq-chicken-sandwiches.md)
 
