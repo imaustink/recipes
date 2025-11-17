@@ -84,4 +84,5 @@ Welcome to the Kurpuis family's recipe index!
 - [Crockpot Pork Carnitas](recipes/crockpot-pork-carnitas.md)
 - [Crock-Pot Tender Steak Tips](recipes/crock-pot-tender-steak-tips.md)
 - [Oatmeal Cream Pies](recipes/oatmeal-cream-pies.md)
+- [Grilled Cheese Beef and Rice Burritos](recipes/grilled-cheese-beef-and-rice-burritos.md)
 
