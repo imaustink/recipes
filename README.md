@@ -86,4 +86,5 @@ Welcome to the Kurpuis family's recipe index!
 - [Oatmeal Cream Pies](recipes/oatmeal-cream-pies.md)
 - [Grilled Cheese Beef and Rice Burritos](recipes/grilled-cheese-beef-and-rice-burritos.md)
 - [Parmesan Garlic Chicken Sandwiches](recipes/parmesan-garlic-chicken-sandwiches.md)
+- [Mexican Ground Beef Rice Skillet (Without Black Beans)](recipes/mexican-ground-beef-rice-skillet-(without-black-beans).md)
 
