@@ -102,4 +102,5 @@ Welcome to the Kurpuis family's recipe index!
 - [Bakery Style Blueberry Muffins](recipes/bakery-style-blueberry-muffins.md)
 - [Spaghetti and Meatballs](recipes/spaghetti-and-meatballs.md)
 - [Sticky Gochujang Banh Mi Sauce](recipes/sticky-gochujang-banh-mi-sauce.md)
+- [Chipotle Chuck Chili](recipes/chipotle-chuck-chili.md)
 
