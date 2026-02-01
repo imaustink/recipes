@@ -105,4 +105,5 @@ Welcome to the Kurpuis family's recipe index!
 - [Chipotle Chuck Chili](recipes/chipotle-chuck-chili.md)
 - [Classic Lasagna with Red Wine Meat Sauce](recipes/classic-lasagna-with-red-wine-meat-sauce.md)
 - [Beer Bread](recipes/beer-bread.md)
+- [Oat-Cinnamon Cobbler Topping (Cobbler-Crisp Hybrid)](recipes/oat-cinnamon-cobbler-topping-(cobbler-crisp-hybrid).md)
 
