@@ -100,4 +100,5 @@ Welcome to the Kurpuis family's recipe index!
 - [Yakisoba](recipes/yakisoba.md)
 - [Brown Sugar Balsamic Pork Tenderloin Recipe – Perfectly Glazed](recipes/brown-sugar-balsamic-pork-tenderloin-recipe-%E2%80%93-perfectly-glazed.md)
 - [Bakery Style Blueberry Muffins](recipes/bakery-style-blueberry-muffins.md)
+- [Spaghetti and Meatballs](recipes/spaghetti-and-meatballs.md)
 
