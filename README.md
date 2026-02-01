@@ -104,4 +104,5 @@ Welcome to the Kurpuis family's recipe index!
 - [Sticky Gochujang Banh Mi Sauce](recipes/sticky-gochujang-banh-mi-sauce.md)
 - [Chipotle Chuck Chili](recipes/chipotle-chuck-chili.md)
 - [Classic Lasagna with Red Wine Meat Sauce](recipes/classic-lasagna-with-red-wine-meat-sauce.md)
+- [Beer Bread](recipes/beer-bread.md)
 
