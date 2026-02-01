@@ -95,4 +95,5 @@ Welcome to the Kurpuis family's recipe index!
 - [Air Fried Ravioli](recipes/air-fried-ravioli.md)
 - [Cheesy Hamburger Helper](recipes/cheesy-hamburger-helper.md)
 - [One Pan Cheesy Chicken Taco Rice](recipes/one-pan-cheesy-chicken-taco-rice.md)
+- [Cozy Chicken and Noodles](recipes/cozy-chicken-and-noodles.md)
 
