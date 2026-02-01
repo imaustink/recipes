@@ -94,4 +94,5 @@ Welcome to the Kurpuis family's recipe index!
 - [Crock-Pot BBQ Chicken Sandwiches](recipes/crock-pot-bbq-chicken-sandwiches.md)
 - [Air Fried Ravioli](recipes/air-fried-ravioli.md)
 - [Cheesy Hamburger Helper](recipes/cheesy-hamburger-helper.md)
+- [One Pan Cheesy Chicken Taco Rice](recipes/one-pan-cheesy-chicken-taco-rice.md)
 
