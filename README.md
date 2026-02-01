@@ -97,4 +97,5 @@ Welcome to the Kurpuis family's recipe index!
 - [One Pan Cheesy Chicken Taco Rice](recipes/one-pan-cheesy-chicken-taco-rice.md)
 - [Cozy Chicken and Noodles](recipes/cozy-chicken-and-noodles.md)
 - [Saucy Beef & Broccoli Ramen](recipes/saucy-beef-&-broccoli-ramen.md)
+- [Yakisoba](recipes/yakisoba.md)
 
